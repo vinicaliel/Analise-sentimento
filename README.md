@@ -1,9 +1,5 @@
 # Desafio de projeto - Módulo Serviços em Cloud com Foco em IA
 
-**Instruções do projeto:**
-- Crie um arquivo chamado readme.md , deixe alguns prints descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo após a IA analisar suas sentenças;
-
-<br>
 
 # Sentença 1
 
@@ -20,9 +16,11 @@ The Contoso Bistro lasagna is a classic! The outdoor back patio is such a vibe, 
 
 **Insights:**
 
-Uma coisa interessante que dá pra perceber é que um comentário pode até começar com algo negativo, como "long waits", mas ainda assim ser visto como positivo dependendo do contexto e da justificativa.  
-As palavras de ligação, como "but" e "though", fazem toda a diferença porque podem suavizar ou até reverter o tom da frase. Outra coisa que influencia bastante são emojis e expressões mais informais, tipo ":)" ou "Love this place", que deixam a mensagem com um tom mais animado.  
-Isso mostra como a análise de sentimentos pode ser útil, principalmente para empresas que querem entender melhor o que os clientes estão dizendo. Além disso, é um ótimo jeito de ensinar algoritmos a interpretar melhor comentários mistos e evitar interpretações erradas.
+É interessante notar que um comentário pode até começar com algo negativo, como "long waits", mas ainda ser interpretado de forma positiva dependendo do contexto e da explicação que o acompanha. Conectivos como "but" e "though" têm um papel importante nisso, pois conseguem suavizar ou até inverter o tom da frase.
+
+Além disso, elementos como emojis e expressões mais informais, como ":)" ou "Love this place", contribuem para dar um tom mais leve e entusiasmado à mensagem.
+
+Tudo isso mostra como a análise de sentimentos pode ser uma ferramenta poderosa, especialmente para empresas que querem compreender melhor a percepção dos clientes. Também é uma ótima maneira de treinar algoritmos para interpretar comentários mistos com mais precisão e evitar interpretações equivocadas.
 
 <br>
 <br>
@@ -43,11 +41,11 @@ The whole experience was just awful, and I expect a refund for our meal and an a
 
 **Insights:**
 
-Dá pra ver que esse comentário tem um tom bem negativo, principalmente porque o cliente estava com expectativas altas e acabou se frustrando. Ele começa mencionando que já tinha ouvido coisas boas sobre o restaurante, o que poderia indicar um tom neutro ou até positivo no início, mas logo muda completamente quando descreve a longa espera e a comida ruim.
+Fica claro que esse comentário tem um tom bastante negativo, principalmente porque o cliente tinha expectativas altas e acabou se decepcionando. Ele começa mencionando que já havia ouvido boas recomendações sobre o restaurante — algo que poderia sugerir um tom neutro ou até positivo — mas isso muda drasticamente quando ele relata a longa espera e a má qualidade da comida.
 
-Palavras e expressões como "very cold and dry", "the whole experience was just awful" e "I expect a refund" deixam claro o nível de insatisfação. Além disso, ele usa um tom mais formal e direto ao exigir um reembolso e um pedido de desculpas, o que reforça a seriedade da reclamação.
+Expressões como "very cold and dry", "the whole experience was just awful" e "I expect a refund" evidenciam o grau de insatisfação. Além disso, o tom usado é mais formal e direto ao exigir um reembolso e um pedido de desculpas, o que reforça a seriedade da reclamação.
 
-Essa análise pode ajudar empresas a identificar rapidamente feedbacks negativos e agir para resolver o problema. Além disso, dá pra treinar algoritmos para diferenciar críticas construtivas de reclamações mais sérias que exigem uma resposta urgente.
+Esse tipo de análise é útil para que as empresas identifiquem rapidamente feedbacks negativos e possam tomar medidas para resolver a situação. Também serve para treinar algoritmos a distinguirem críticas construtivas de reclamações mais graves que pedem uma resposta imediata.
 <br>
 <br>
 
@@ -65,9 +63,10 @@ Essa análise pode ajudar empresas a identificar rapidamente feedbacks negativos
 
 **Insights:**
 
-Esse comentário tem um tom claramente negativo, já que o autor expressa insatisfação tanto com a qualidade da comida quanto com o preço. A frase "getting worse by the day" indica uma piora contínua, o que torna a crítica ainda mais forte.
+Esse comentário transmite um tom claramente negativo, já que o autor demonstra insatisfação tanto com a qualidade da comida quanto com o preço. A expressão "getting worse by the day" reforça a ideia de uma deterioração contínua, tornando a crítica ainda mais impactante.
 
-Além disso, a menção ao preço ("$15 for a plate of burger and fries does not seem subsidized") sugere que o cliente esperava um custo menor, talvez por ser um refeitório com algum tipo de subsídio. Isso mostra que a insatisfação não é apenas com a comida, mas também com a precificação.
+A observação sobre o preço ("$15 for a plate of burger and fries does not seem subsidized") indica que o cliente esperava um valor mais acessível, possivelmente por se tratar de um refeitório que, na visão dele, deveria ter algum tipo de subsídio. Isso revela que a frustração vai além da comida, atingindo também a questão do custo.
 
-Isso pode ser útil para empresas ajustarem preços ou melhorarem a qualidade do serviço. Para a análise de sentimentos, é um bom exemplo de como detectar frustração e possíveis expectativas não atendidas com base no tom das palavras.
+Esse tipo de análise pode ajudar empresas a reavaliar preços ou investir na melhoria do serviço. Para a análise de sentimentos, é um bom exemplo de como identificar frustração e expectativas não atendidas com base na escolha das palavras e no tom do comentário.
+
 
